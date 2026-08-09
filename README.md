@@ -18,3 +18,10 @@ REST APIs • SFTP • FTPS • Selenium
 
 Currently studying
 Computer Science
+
+## Professional activity
+
+For my professional development activity:
+
+Corporate GitHub → Arthurr-Costa
+Organization → DevTreo
