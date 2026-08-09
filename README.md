@@ -1,27 +1,39 @@
-Arthur Costa
-Python Backend Developer
+# Arthur Costa
 
-Desenvolvedor focado em aplicações backend,
-automação de processos e integração entre sistemas.
+### Python Backend Developer
 
-Core
+Python developer focused on backend development, system integrations and process automation.
+
+Currently working professionally with Python, developing internal systems, integrations and automation solutions.
+
+## Tech Stack
+
+**Core**  
 Python • SQL • REST APIs
 
-Backend
-Django • FastAPI
+**Backend**  
+Django
 
-Infrastructure
-Docker • Git • Linux
+**Tools & Environment**  
+Git • Linux
 
-Integration & Automation
-REST APIs • SFTP • FTPS • Selenium
+## Experience
 
-Currently studying
-Computer Science
+- Backend development
+- REST API integrations
+- Process automation
+- SQL databases
+- SFTP / FTPS integrations
+- Data and file processing
+- Worker-based automation orchestration
 
-## Professional activity
+## Education
 
-For my professional development activity:
+Currently studying **Computer Science**.
 
-Corporate GitHub → Arthurr-Costa
-Organization → DevTreo
+## Professional Activity
+
+My professional development activity is maintained separately:
+
+- Corporate GitHub: [Arthurr-Costa](...)
+- Organization: [DevTreo](...)
